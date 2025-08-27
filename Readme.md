@@ -1,11 +1,12 @@
-# Surrogate-aided-Learning-of-Tether-Net
-In this paper, we proposed a multi-fidelity reinforcement learning method to find the thrust angles and magnitude to maneuver the tether-net system to achieve successful captures with low fuel cost.
-
 This repo contains the supplement materials for the paper: 
 
 ```
 F. Liu, A. Boonrath, E. M. Botta, S. Chowdhury, "Surrogate-aided Learning of Active Tether-Net Maneuver to Capture Rotating Space Debris", *Submitted to IEEE Transactions on Automation Science and Engineering*, under review
 ```
+
+# Surrogate-aided-Learning-of-Tether-Net
+In this paper, we proposed a multi-fidelity reinforcement learning method to find the thrust angles and magnitude to maneuver the tether-net system to achieve successful captures with low fuel cost.
+
 
 ## Sample Rendered Animations
 
