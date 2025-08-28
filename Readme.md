@@ -1,7 +1,7 @@
 This repo contains the supplement materials for the paper: 
 
 ```
-F. Liu, A. Boonrath, E. M. Botta, S. Chowdhury, "Surrogate-aided Learning of Active Tether-Net Maneuver to Capture Rotating Space Debris", *Submitted to IEEE Transactions on Automation Science and Engineering*, under review
+F. Liu, A. Boonrath, E. M. Botta, S. Chowdhury, "Surrogate-aided Learning of Active Tether-Net Maneuver to Capture Rotating Space Debris", *Submitted to IEEE Transactions on Aerospace and Electronic Systems*, under review
 ```
 
 # Surrogate-aided-Learning-of-Tether-Net
