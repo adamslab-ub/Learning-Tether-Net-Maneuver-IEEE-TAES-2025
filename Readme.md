@@ -12,8 +12,7 @@ In this paper, we proposed a multi-fidelity reinforcement learning method to fin
 
 ### Video for the sample debris capture scenario using the baseline aiming point control
 
-<video controls="" width="800" height="500" muted="" loop="" autoplay="">
-<source src="https://github.com/user-attachments/assets/a9df38cd-a1e9-4e3c-9e15-097044077d99.mp4" type="video/mp4">
+<video src="https://github.com/user-attachments/assets/a9df38cd-a1e9-4e3c-9e15-097044077d99" type="video/mp4">
 </video>
 
 ### Video for the sample debris capture scenario using the RL_PS-derived control policy
