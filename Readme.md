@@ -12,9 +12,10 @@ In this paper, we proposed a multi-fidelity reinforcement learning method to fin
 
 ### Video for the sample debris capture scenario using the baseline aiming point control
 
-<video controls muted playsinline
-  src="https://adamslab-ub.github.io/Learning-Tether-Net-Maneuver-IEEE-TAES-2025/media_files/compressed/Ap_Fin_4_Test_3D.mp4">
-</video>
+
+
+https://github.com/user-attachments/assets/b6eef685-daec-480d-b917-985193ec5a84
+
 
 
 ### Video for the sample debris capture scenario using the RL_PS-derived control policy
