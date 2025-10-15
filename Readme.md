@@ -12,25 +12,21 @@ In this paper, we proposed a multi-fidelity reinforcement learning method to fin
 
 ### Video for the sample debris capture scenario using the baseline aiming point control
 
-
-
-https://github.com/user-attachments/assets/b6eef685-daec-480d-b917-985193ec5a84
-
-
+https://github.com/user-attachments/assets/30096ccb-0ab4-4950-9ea7-8ccb8f124620
 
 ### Video for the sample debris capture scenario using the RL_PS-derived control policy
 
-https://github.com/user-attachments/assets/b37b4beb-6ebe-4a45-9c82-65871f1fc57c
+https://github.com/user-attachments/assets/06121ef8-3169-42db-a534-61410a8e518f
 
 ### Comparison between RL_PS-derived control and the aiming point control ( 3D View )
 
-https://github.com/user-attachments/assets/16bae8ea-da64-4617-89b6-b94aa11c0011
+https://github.com/user-attachments/assets/80ccd8eb-edc8-4125-8051-e2ac8cf770e6
 
 ### Comparison between RL_PS-derived control and the aiming point control ( XY Plane View )
 
-https://github.com/user-attachments/assets/5155b5d2-196b-4321-a0f3-6cd7974a29b5
+https://github.com/user-attachments/assets/503ecf10-5c33-4f1e-a4fa-43ac48682788
 
 ### Comparison between RL_PS-derived control and the aiming point control ( ZY Plane View )
 
-https://github.com/user-attachments/assets/f9b41848-0f72-48a5-8af0-096c3ef2ecb3
+https://github.com/user-attachments/assets/3be01319-cda9-431f-bf65-c7250f487eee
 
