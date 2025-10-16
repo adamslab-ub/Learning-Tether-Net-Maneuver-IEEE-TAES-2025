@@ -1,11 +1,13 @@
-This repo contains the supplement materials for the paper: 
-
+# This repo contains the supplement materials for the paper: 
+<!--
 ```
-F. Liu, A. Boonrath, E. M. Botta, S. Chowdhury, "Surrogate-aided Learning of Active Tether-Net Maneuver to Capture Rotating Space Debris", *Submitted to IEEE Transactions on Aerospace and Electronic Systems*, under review
+F. Liu, A. Boonrath, E. M. Botta, S. Chowdhury, "Surrogate-aided Learning of Active Tether-Net Maneuver to Capture Rotating Space Debris", in IEEE Transactions on Aerospace and Electronic Systems, 2025##
 ```
+-->
+> F. Liu, A. Boonrath, E. M. Botta, and S. Chowdhury, “Surrogate-aided Learning of Active Tether-Net Maneuver to Capture Rotating Space Debris,” *IEEE Transactions on Aerospace and Electronic Systems*, 2025.
 
 # Surrogate-aided-Learning-of-Tether-Net
-In this paper, we proposed a multi-fidelity reinforcement learning method to find the thrust angles and magnitude to maneuver the tether-net system to achieve successful captures with low fuel cost.
+In this paper, we propose a multi-fidelity reinforcement learning method to find the thrust angles and magnitude to maneuver the tether-net system to achieve successful captures with low fuel cost.
 
 
 ## Sample Rendered Animations
